@@ -1,0 +1,99 @@
+body{
+    background-color:#e7fafc;padding: 20px;}
+    h1{
+        text-align: center;font-size: 40px;
+    }
+    h1:hover{
+text-decoration:underline ;
+    }
+    p{
+        text-align: center;font-size:25px; 
+    }
+    nav{
+        text-align: center;font-size: 20px;
+    }
+    nav a{
+        border: lightseagreen;padding:5px;font-weight: bold;
+        text-decoration: none;margin-left: 20px;
+    }
+    section{
+        background-color: white;width: 800px;margin: 30px auto;border-radius: 10px;padding: 10px;
+    }
+    hr{
+        margin:30px auto;width:800px;border:2px solid black
+    }
+    figure img{
+border-radius:50% ;border:darkturquoise;
+    }
+    figure img:hover{
+        box-shadow: 8px 8px 8px;text-align: center;
+    }
+    figcaption{
+        font-size: 25px;
+    }
+    section ul{
+text-align: left;
+    }
+    section h2{
+        border-bottom: 2px solid darkcyan;padding-bottom: 10px;
+    }
+    article{
+        background-color: #e7fafc;padding: 20px;margin:20px;border-left: 4px solid deepskyblue;
+    }
+    .one{
+        color:crimson
+    }
+    .two{
+        color:teal
+    }
+    .zudio{
+        color: mediumvioletred;
+    }
+    .dairyfarm{
+        color:darkred;
+    }
+    h3{
+        font-size: 30px;
+    }
+    summary{
+        font-size: 30px;
+    }
+    li{
+        background-color: #e7fafc;margin-bottom: 10px;padding: 10px;font-size: 20px;text-align: left;
+    }
+    li:hover{
+        background-color: aqua(161,226,228);
+    }
+    summary{
+        font-size: 30px;
+    }
+    li{
+        background-color: #e7fafc;margin-bottom: 10px;font-size: 20px;text-align: left;
+    }
+    li:hover{
+        background-color:aqua(161,226,228);
+    }
+    ul,ol{
+        list-style-type: none;
+    }
+    form{
+        text-align: center;
+    }
+    input,textarea{
+        width:97%
+    }
+    input{
+        margin:8px;
+    }
+    button:hover{
+        background-color: indianred;color:bisque
+    }
+    a{
+        text-decoration: none;
+    }
+    img{
+        width: 200px;height: 200px;
+    }
+    figcaption{
+        text-align: center;
+    }
